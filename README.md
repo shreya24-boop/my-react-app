@@ -38,11 +38,6 @@ This is a simple React website created using React and Vite.
 
 ## Project Output
 
-![Project Output](screenshots/output.png)
+![Project Output](screenshots/output1.png)
 
-## How to Run
 
-1. Install dependencies
-
-```bash
-npm install
