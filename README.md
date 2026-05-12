@@ -36,8 +36,9 @@ This is a simple React website created using React and Vite.
 - JavaScript
 - CSS
 
-## Project Output
+## Project Output"
+D:\website\screenshots\output1.png"
 
-![Project Output](screenshots/output1.png)
+
 
 
